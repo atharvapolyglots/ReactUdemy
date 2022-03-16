@@ -1,5 +1,5 @@
 //REASSIGN VALUE USING LET IS ALLOWED
-let Name='atharva1'
+let Name='bhuse';
 console.log(Name)
 
 Name='Atharva2'
@@ -77,7 +77,7 @@ print('x','xx')
 //------------------------------------------------------
 
 //ARRAY DESTRUCTURING
-const number=[1,2,3]
+const number=[1,2,6]
 let num1,num2
 [num1,num2]=number
 console.log(num1,num2)
