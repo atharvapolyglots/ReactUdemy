@@ -1,0 +1,16 @@
+.expense-itemx{
+    color: red;
+    font-size: 45px
+}
+
+h3{
+    color: green;
+}
+/* .row{
+    display: inline-block;
+    background-color: green
+} */
+.rowbig{
+    display: inline-block;
+
+}
