@@ -1,0 +1,26 @@
+.new-expense-controls{
+    background-color: bisque;
+    padding: 25px;
+    align-items: center;
+
+}
+.new-expense-control{
+    padding: 5px;
+    align-items: center;
+    display: inline-block;
+
+
+}
+.new-expense-control input{
+    border-radius: 5px;
+}
+.new-expense-actions{
+    display: inline-block;
+
+}
+.new-expense-actions button{
+    border-radius: 5px;
+    padding: 12px;
+    background-color: green;
+    color: white;
+}
