@@ -39,6 +39,7 @@ export default function App() {
    SetExpenses([expense, ...expenses])
   }
 
+
   return (
     <div>
       <NewExpense onAddExpense={addExpenseHandler}></NewExpense>
