@@ -1,0 +1,26 @@
+/* .button{
+    color: rgb(250, 249, 249);
+    background-color: rgb(5, 5, 43);
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 5px;
+}
+.button:hover{
+    color: white;
+    background-color: rgb(16, 223, 16);
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 5px;
+    transition: .2s transform ease-in-out
+} */
+.button {
+    padding: 0.5rem 1.5rem;
+    color: white;
+    background: #8b005d;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background: #ac0e77;
+    border-color: #ac0e77;
+  }
